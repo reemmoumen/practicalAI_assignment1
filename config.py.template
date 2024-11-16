@@ -1,0 +1,6 @@
+# Azure Computer Vision API Configuration
+# Replace these values with your actual Azure credentials
+# DO NOT commit the actual credentials to version control
+
+AZURE_ENDPOINT = "your_endpoint_here"
+AZURE_KEY = "your_key_here"
